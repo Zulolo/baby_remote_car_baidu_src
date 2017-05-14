@@ -19,8 +19,8 @@
 
 //put your own params here
 char const *CUID = "e6:f6:85:78:cd:25";
-char const *API_KEY = "vM5QGtUWb9z0TXHCIm1nLLX6";
-char const *SECRET_KEY = "caa8656826529433aaa997d2fd002851";
+char const *API_KEY = "";
+char const *SECRET_KEY = "";
 
 static size_t writefunc(void *ptr, size_t size, size_t nmemb, char **result)
 {
