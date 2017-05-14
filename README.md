@@ -1,1 +1,2 @@
-# baby_remote_car_baidu_src
+# Use baidu speech recognizer to get control instruction
+
